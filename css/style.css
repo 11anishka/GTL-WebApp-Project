@@ -20,6 +20,7 @@ header nav a.atag1{
 }
 nav{
 	background-color: black;
+	padding: 15px;
 }
 p{
 	color: red;
@@ -34,7 +35,7 @@ p{
     clear: both;
     text-align: left;
 }
-#B3{color:yellow;}
+#B3{color: #a89f20}
 
 .container{
 	width:100%;
